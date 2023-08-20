@@ -21,12 +21,6 @@ Welcome to my responsive portfolio project! This portfolio showcases my web deve
 - HTML5
 - CSS3
 
-## How to Use
-
-1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git`
-2. Open `index.html` in your web browser.
-3. Explore the different sections of the portfolio.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
